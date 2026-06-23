@@ -28,4 +28,4 @@ Tools Used
 - LinkedIn
 
 ## Status
-Currently in Week 1: Research & Planning Phase
+Completed
